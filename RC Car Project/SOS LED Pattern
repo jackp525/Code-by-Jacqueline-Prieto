@@ -1,7 +1,6 @@
-//Void setup is only run one time
 void setup() {
   pinMode(13, OUTPUT);
-  // put your setup code here, to run once:
+  // using two LEDs setup in parallel with a 1k ohm resistor on a single pin (13)
 }
 
 void loop() {
