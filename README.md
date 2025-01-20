@@ -1,1 +1,1 @@
-# Code-by-Jacqueline-Prieto
+# Academic Projects by Jacqueline-Prieto
